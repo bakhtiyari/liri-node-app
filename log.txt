@@ -1,0 +1,43 @@
+
+---------------- Song Info ----------------
+Name:   A Different Corner
+Artist: George Michael
+Album:  Ladies And Gentlemen... The Best Of George Michael
+Link:   https://p.scdn.co/mp3-preview/aea96b0b2cb3cc8648f18b549de6ff3e2860f372?cid=null
+-------------------------------------------
+
+---------------- Movie Info ---------------
+Title:                  Fight Club
+Released:               15 Oct 1999
+IMDB Rating:            8.8
+Country:                USA, Germany
+Language:               English
+Plot:                   An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.
+Actors:                 Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+Rotten Tomatoes Rating: 7.3
+Rotten Tomatoes URL:    http://www.rottentomatoes.com/m/fight_club/
+--------------------------------------------
+
+------------------- My Tweets ------------------
+____________________________________________
+Time:  Fri Feb 10 03:11:07 +0000 2017
+Tweet: First tweet
+____________________________________________
+
+____________________________________________
+Time:  Tue Feb 14 04:47:25 +0000 2017
+Tweet: Hello World!
+____________________________________________
+
+____________________________________________
+Time:  Tue Feb 14 04:48:34 +0000 2017
+Tweet: Reading Twitter API client library for node.js
+____________________________________________
+-----------------------------------------------
+
+---------------- Song Info ----------------
+Name:   I Want It That Way
+Artist: Backstreet Boys
+Album:  The Hits--Chapter One
+Link:   https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+-------------------------------------------
